@@ -1,0 +1,17 @@
+02-13 12:45:37.189  25087-25087/? I/Lab-UserInterface? Entered footerView.OnClickListener.onClick()
+02-13 12:45:39.529  25087-25087/? I/Lab-UserInterface? Entered cancelButton.OnClickListener.onClick()
+02-13 12:45:40.069  25087-25087/? I/Lab-UserInterface? Entered onActivityResult()
+02-13 12:45:41.229  25087-25087/? I/Lab-UserInterface? Entered footerView.OnClickListener.onClick()
+02-13 12:45:43.479  25087-25087/? I/Lab-UserInterface? Entered submitButton.OnClickListener.onClick()
+02-13 12:45:44.009  25087-25087/? I/Lab-UserInterface? Entered onActivityResult()
+02-13 12:45:50.659  25087-25087/? I/Lab-UserInterface? Item 0: Title:t4,Priority:LOW,Status:DONE,Date:2014-02-20 12:45:00
+02-13 12:45:54.919  25087-25087/? I/Lab-UserInterface? Entered footerView.OnClickListener.onClick()
+02-13 12:45:57.109  25087-25087/? I/Lab-UserInterface? Entered resetButton.OnClickListener.onClick()
+02-13 12:45:59.159  25087-25087/? I/Lab-UserInterface? Entered submitButton.OnClickListener.onClick()
+02-13 12:45:59.669  25087-25087/? I/Lab-UserInterface? Entered onActivityResult()
+02-13 12:46:01.459  25087-25087/? I/Lab-UserInterface? Entered onCheckedChanged()
+02-13 12:46:02.459  25087-25087/? I/Lab-UserInterface? Item 0: Title:t3,Priority:HIGH,Status:DONE,Date:2014-02-20 12:45:00
+02-13 12:46:06.819  25087-25087/? I/Lab-UserInterface? Entered footerView.OnClickListener.onClick()
+02-13 12:46:19.979  25087-25087/? I/Lab-UserInterface? Entered submitButton.OnClickListener.onClick()
+02-13 12:46:20.509  25087-25087/? I/Lab-UserInterface? Entered onActivityResult()
+02-13 12:46:22.069  25087-25087/? I/Lab-UserInterface? Item 0: Title:t1,Priority:LOW,Status:DONE,Date:2014-02-28 09:19:00
